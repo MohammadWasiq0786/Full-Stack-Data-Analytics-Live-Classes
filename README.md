@@ -6,7 +6,7 @@ Here I upload the Full Stack Data Analytics course which is conducted by iNeuron
 
 # Course Details
 
-## 1. Statistics
+## 1. [Statistics](https://github.com/MohammadWasiq0786/Full-Stack-Data-Analytics/tree/main/1.%20Statistics)
 
 
 
@@ -16,4 +16,4 @@ Here I upload the Full Stack Data Analytics course which is conducted by iNeuron
 
 | Module | Teacher |
 | ------ | ------- |
-| 1. Statistics | | [Krish Naik](https://www.linkedin.com/in/naikkrish/) |
+| 1. Statistics | [Krish Naik](https://www.linkedin.com/in/naikkrish/) |
